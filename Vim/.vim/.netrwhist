@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/lousta_a/lousta_a-my-read-iso/check'
+let g:netrw_dirhist_2='/home/lousta_a/lousta_a-malloc'
+let g:netrw_dirhist_3='/home/lousta_a/pierqu_t-raytracer'
+let g:netrw_dirhist_4='/home/lousta_a/pierqu_t-raytracer/src'
+let g:netrw_dirhist_5='/bin'
+let g:netrw_dirhist_6='/home/lousta_a/taf0_1/Projet/lousta_a-my-read-iso'
