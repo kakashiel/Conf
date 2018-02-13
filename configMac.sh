@@ -6,10 +6,10 @@ easy_install pip
 echo "installation brew"
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-#git 
+#git
 echo "install git"
 brew install git
-cp ./.gitconfig ~/ 
+cp ./.gitconfig ~/
 
 #zsh
 echo "install zsh"
@@ -22,4 +22,4 @@ echo "install oh-my-zsh"
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
-sh ~/.vim_runtime/install_awesome_vimrc.sh 
+sh ~/.vim_runtime/install_awesome_vimrc.sh
